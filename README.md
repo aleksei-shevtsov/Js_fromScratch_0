@@ -1,2 +1,2 @@
-# Js_fromScratch_0
+# Js_fromScratch_RUS
 Test proj
